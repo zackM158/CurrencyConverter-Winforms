@@ -1,0 +1,12 @@
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\bin\Debug\FunctionLibrary.dll
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\bin\Debug\FunctionLibrary.pdb
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\obj\Debug\FunctionLibrary.dll
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\obj\Debug\FunctionLibrary.pdb
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\obj\Debug\FunctionLibrary.csprojAssemblyReference.cache
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\ZackOneDayProject\FunctionLibrary\obj\Debug\FunctionLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\bin\Debug\FunctionLibrary.dll
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\bin\Debug\FunctionLibrary.pdb
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\obj\Debug\FunctionLibrary.csprojAssemblyReference.cache
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\obj\Debug\FunctionLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\obj\Debug\FunctionLibrary.dll
+D:\Users\Zack\Documents\FDM\OOD\Projects\CSharpWorkspace\CurrencyConverter\FunctionLibrary\obj\Debug\FunctionLibrary.pdb

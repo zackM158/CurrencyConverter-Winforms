@@ -1,0 +1,3 @@
+2020-04-13 16:18:29,624 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-13 16:19:25,319 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - USD Is Not A Valid Currency Code
+2020-04-13 16:19:28,679 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.

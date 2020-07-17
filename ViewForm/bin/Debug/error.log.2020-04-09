@@ -1,0 +1,158 @@
+2020-04-09 07:40:43,018 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:41:17,482 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 07:41:46,336 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:42:09,858 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 07:42:46,029 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:43:29,000 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 07:48:11,241 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:48:20,928 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 07:48:55,924 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:49:06,998 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Specified argument was out of the range of valid values.
+Parameter name: -13 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+2020-04-09 07:49:27,894 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 07:52:08,184 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 07:53:46,633 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:03:02,926 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:03:16,216 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 5445 Days
+Parameter name: amountOfDAys
+2020-04-09 08:03:28,722 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:04:29,256 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:04:37,388 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Specified argument was out of the range of valid values.
+Parameter name: We Only Have Records For The Last 5445 Days
+2020-04-09 08:04:43,535 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:05:56,285 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:06:06,156 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 5445 Days
+Parameter name: amountOFDAYS
+2020-04-09 08:06:11,265 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:09:12,632 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:09:18,663 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Specified argument was out of the range of valid values.
+Parameter name: -100 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+2020-04-09 08:09:21,851 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Specified argument was out of the range of valid values.
+Parameter name: -100 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+2020-04-09 08:09:23,369 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:10:20,427 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:10:27,739 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -10 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+Parameter name: Amount
+2020-04-09 08:10:43,601 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 5445 Days
+Parameter name: Amount Of Days
+2020-04-09 08:10:49,768 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:25:09,892 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:25:19,282 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - 50 Is Not A Valid Currency Code
+2020-04-09 08:25:26,264 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -50 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+Parameter name: Amount
+2020-04-09 08:25:27,999 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:32:56,788 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:33:26,779 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:39:16,302 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:39:45,133 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 08:53:04,764 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 08:53:25,454 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:45:16,469 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:45:26,679 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -80 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+Parameter name: Amount
+2020-04-09 09:45:31,871 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -80 Is Not A Valid Amount Of Days, Please Insert A Positive Integer
+Parameter name: Number Of Days
+2020-04-09 09:45:40,901 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:47:10,666 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:47:20,016 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - USJ Is Not A Valid Currency Code
+2020-04-09 09:47:26,595 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -50 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+Parameter name: Amount
+2020-04-09 09:47:39,538 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -60 Is Not A Valid Amount Of Days, Please Insert A Positive Integer
+Parameter name: Number Of Days
+2020-04-09 09:47:45,103 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -60 Is Not A Valid Amount Of Days, Please Insert A Positive Integer
+Parameter name: Number Of Days
+2020-04-09 09:47:48,983 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -80 Is Not A Valid Amount Of Days, Please Insert A Positive Integer
+Parameter name: Number Of Days
+2020-04-09 09:48:04,881 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:51:31,252 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:52:02,300 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:52:30,911 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:53:07,317 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:53:21,468 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:53:35,542 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:54:01,188 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:54:26,293 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 09:54:45,184 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 09:54:53,604 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - UDS Is Not A Valid Currency Code
+2020-04-09 09:54:55,214 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 11:17:13,447 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:17:19,725 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 11:21:42,100 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:21:47,184 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 11:50:08,759 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:51:50,604 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 11:55:56,641 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:56:37,140 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 11:57:31,646 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:57:46,763 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:57:56,955 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 11:58:08,540 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 12:13:43,987 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 12:14:05,047 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Please Enter An Input For The Currency Code
+2020-04-09 12:14:09,637 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:00:57,221 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:01:06,243 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:32:02,543 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:33:32,247 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:35:21,469 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyController.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:35:26,278 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyController.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:35:34,889 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyController.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:35:34,892 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:35:38,844 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - G Is Not A Valid Currency Code
+2020-04-09 13:35:42,523 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - GBP Is Not A Valid Currency Code
+2020-04-09 13:35:45,906 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:38:46,418 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:38:46,422 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:38:48,969 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:40:12,242 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:40:21,489 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Unable to connect to the remote server
+2020-04-09 13:40:23,042 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:24,449 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:25,254 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:26,119 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:26,995 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:27,781 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:28,796 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:29,631 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:30,074 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:31,021 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:31,383 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:33,253 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:33,516 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:41,868 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Please Enter An Input For The Amount
+2020-04-09 13:40:50,270 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:40:52,790 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:40:52,796 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:41:14,544 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:41:55,198 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:42:01,964 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:42:19,820 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:43:35,207 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote name could not be resolved: 'www.ecb.europa.eu'
+2020-04-09 13:45:18,115 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote server returned an error: (404) Not Found.
+2020-04-09 13:45:40,743 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:45:48,771 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - The remote server returned an error: (404) Not Found.
+2020-04-09 13:45:51,803 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:45:59,376 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:46:12,857 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:55:19,909 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:55:21,826 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 13:55:37,548 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 13:57:47,680 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 5445 Days
+Parameter name: Number Of Days
+2020-04-09 13:58:04,203 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 15:15:54,075 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 15:16:07,385 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 15:25:52,274 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 15:26:20,936 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - -50 Is Not A Valid Amount Of Money, Please Insert A Positive Number
+Parameter name: Amount
+2020-04-09 15:26:27,522 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Please Enter An Input For The Currency Code
+2020-04-09 15:26:34,000 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - JIS Is Not A Valid Currency Code
+2020-04-09 15:27:32,816 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 15:36:50,671 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 15:37:00,997 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 5446 Days
+Parameter name: Number Of Days
+2020-04-09 15:37:08,464 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 15:43:41,065 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 15:44:00,601 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-09 15:44:53,305 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-09 15:45:23,508 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.

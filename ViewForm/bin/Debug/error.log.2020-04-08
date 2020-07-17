@@ -1,0 +1,62 @@
+2020-04-08 22:10:14,864 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:10:31,721 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - N Is Not A Valid Currency Code
+2020-04-08 22:10:40,226 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - L Is Not A Valid Currency Code
+2020-04-08 22:10:45,450 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs -  Is Not A Valid Amount Of Money
+2020-04-08 22:10:49,514 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:11:51,109 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:11:54,283 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:12:14,833 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:12:17,083 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:12:30,100 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:12:44,048 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:13:14,401 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:13:18,171 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:13:28,890 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:13:34,579 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:13:41,136 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:13:43,110 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:14:26,147 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:14:40,968 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:14:43,455 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:17:54,313 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:18:01,556 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:18:31,989 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:18:35,990 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:19:44,627 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:19:48,095 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:23:13,642 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:23:22,199 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:23:38,337 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:23:50,179 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:24:39,802 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:24:50,792 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:34:47,679 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:34:59,332 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - Please Enter An Input For The Amount Of Days
+2020-04-08 22:35:08,299 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:35:44,526 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:35:55,707 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - 50 Is Not A Valid Amount Of Days
+2020-04-08 22:35:59,696 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:36:41,865 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:37:13,448 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:39:17,060 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:39:35,521 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:39:48,602 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:39:55,420 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:41:12,847 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:41:29,152 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:42:47,895 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:43:17,018 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:44:31,072 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:44:58,062 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:45:05,068 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:45:09,595 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:45:22,397 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:45:42,879 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:51:26,941 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:52:16,063 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:52:43,499 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:53:09,970 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:53:33,990 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:53:38,805 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-04-08 22:53:46,268 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-04-08 22:54:18,311 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.

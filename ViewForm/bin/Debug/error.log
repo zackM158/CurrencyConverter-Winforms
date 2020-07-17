@@ -1,0 +1,6 @@
+2020-07-17 10:57:43,953 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-07-17 10:58:22,023 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
+2020-07-17 11:03:05,342 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Start.
+2020-07-17 11:03:17,853 [DESKTOP-55J8VGP][Thread:1][ERROR]  CurrencyConverter.cs - We Only Have Records For The Last 63 Days
+Parameter name: Number Of Days
+2020-07-17 11:04:00,736 [DESKTOP-55J8VGP][Thread:1][INFO]  CurrencyConverter.cs - Exited Program.
